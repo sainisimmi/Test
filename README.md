@@ -3,7 +3,7 @@
 Open source repository for Ontario's official app (Ontario Verify) that is used for verifying COVID-19 vaccine certificates.
 - [Overview](#overview)
 - [Local setup](#local-setup)
-- [Contributing](#adsf)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
