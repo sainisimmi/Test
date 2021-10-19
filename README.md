@@ -59,7 +59,7 @@ yarn run-ios
 yarn run-android
 ```
 
-## Rules, Public keys and Minimum mandatory version
+## Rules, Public keys and Minimum mandatory app version
 
 These are the public access endpoints for:
 
