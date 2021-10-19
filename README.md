@@ -1,8 +1,10 @@
 # Open Verify App 
 
-Open source repository for Ontario's official app **(Ontario Verify)** that is used for verifying COVID-19 vaccine certificates.
+Open source repository for Ontario's official app **(Verify Ontario)** that is used for verifying COVID-19 vaccine certificates.
 - [Overview](#overview)
 - [Local setup](#local-setup)
+- [Rules, Public keys and Minimum mandatory app verion](#Rules, Public keys and Minimum mandatory version)
+- [Vulnerability disclosure policy](#vulnerability-disclosure-policy)
 
 ## Overview
 This is a React Native app and designed to work well on both Android and iOS devices. 
@@ -56,3 +58,20 @@ yarn run-ios
 ```bash
 yarn run-android
 ```
+
+## Rules, Public keys and Minimum mandatory version
+
+These are the public access endpoints for:
+
+#### Rules and Public keys
+
+https://files.ontario.ca/apps/verify/verifyRulesetON.json
+
+
+#### Minimum mandatory version 
+
+https://files.ontario.ca/apps/verify/minimumVersion.json
+
+## Vulnerability disclosure policy
+
+https://covid-19.ontario.ca/verify-vulnerability-disclosure
