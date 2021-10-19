@@ -63,14 +63,10 @@ yarn run-android
 
 These are the public access endpoints for:
 
-#### Rules and Public keys
-
-https://files.ontario.ca/apps/verify/verifyRulesetON.json
+#### [Rules and Public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json)
 
 
-#### Minimum mandatory version 
-
-https://files.ontario.ca/apps/verify/minimumVersion.json
+#### [Minimum mandatory version] (https://files.ontario.ca/apps/verify/minimumVersion.json)
 
 ## Vulnerability disclosure policy
 
