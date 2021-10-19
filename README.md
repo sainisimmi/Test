@@ -3,7 +3,7 @@
 Open source repository for Ontario's official app **(Verify Ontario)** that is used for verifying COVID-19 vaccine certificates.
 - [Overview](#overview)
 - [Local setup](#local-setup)
-- [Rules, Public keys and Minimum mandatory app verion](#Rules, Public keys and Minimum mandatory version)
+- [Rules, Public keys and Minimum mandatory app verion](#rules,-public-keys-and-minimum-mandatory-version)
 - [Vulnerability disclosure policy](#vulnerability-disclosure-policy)
 
 ## Overview
@@ -66,7 +66,7 @@ These are the public access endpoints for:
 #### [Rules and Public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json)
 
 
-#### [Minimum mandatory version] (https://files.ontario.ca/apps/verify/minimumVersion.json)
+#### [Minimum mandatory version](https://files.ontario.ca/apps/verify/minimumVersion.json)
 
 ## Vulnerability disclosure policy
 
