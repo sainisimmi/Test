@@ -15,9 +15,7 @@ The app scans the QR code on an Ontario government-issued vaccine certificate.
 
 After scanning a QR code, the business or organization will see: a green checkmark indicating that it meets vaccine requirements, a red X for an invalid certificate, or a yellow warning indicating that the QR code cannot be read. 
 
-Verify Ontario also scans most government issued SMART® Health Card  QR codes. [Refer the list of onboarded issuers and associated public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json)
-
-Nation-wide capabilities are in development and will be added as provinces issue proof of vaccination with SMART® Health Card QR codes. 
+Verify Ontario also scans most government issued SMART® Health Card  QR codes. [Refer the list of onboarded issuers and associated public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json. Nation-wide capabilities are in development and will be added as provinces issue proof of vaccination with SMART® Health Card QR codes. 
 
 
 ## Local setup
