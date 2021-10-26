@@ -2,7 +2,7 @@
 
 Répertoire du code source libre pour l’application officielle de l’Ontario **(VérifOntario)** qui est utilisée pour vérifier les certificats de vaccination contre la COVID-19.
 - [Aperçu](#aperçu)
-- [Configuration locale](#configuration-alocale)
+- [Configuration locale](#configuration-locale)
 - [Rules, Public keys and Minimum mandatory app version](#rules-public-keys-and-minimum-mandatory-app-version)
 - [Vulnerability disclosure policy](#vulnerability-disclosure-policy)
 
