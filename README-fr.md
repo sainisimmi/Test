@@ -3,8 +3,8 @@
 Dépôt du code source libre pour l’application officielle de l’Ontario (VérifOntario) qui est utilisée pour vérifier les certificats de vaccination contre la COVID-19.
 - [Aperçu](#aperçu)
 - [Configuration locale](#configuration-locale)
-- [Règles, clés publiques et version minimale obligatoire de l’application](#rules-public-keys-and-minimum-mandatory-app-version)
-- [Politique de divulgation des vulnérabilités](#vulnerability-disclosure-policy)
+- [Règles, clés publiques et version minimale obligatoire de l’application](#règles-clés-publiques-et-version-minimale-obligatoire-de-lapplication)
+- [Politique de divulgation des vulnérabilités](#politique-de-divulgation-des-vulnérabilités)
 
 ## Aperçu
 Il s’agit d’une application de technologie React Native conçue pour être compatible avec les appareils Android et iOS.
