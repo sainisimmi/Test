@@ -44,7 +44,7 @@ yarn run update:pods
 ```bash
 cp .env.template .env
 ```
-API_URL env variable points to the URL hosting the rules and public keys. Adjust the value accordingly.
+API_URL env variable points to the URL hosting the rules, public keys and minimum mandatory app version. Adjust the value accordingly.
 
 #### 5. Launch app (development mode)
 
