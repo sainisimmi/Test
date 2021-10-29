@@ -65,7 +65,7 @@ These are the public access endpoints for:
 
 [Rules](https://files.ontario.ca/apps/verify/verifyRulesetON.json)
 
-[Public keys](https://files.ontario.ca/apps/verify/publicKeys.json)
+[Public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json)
 
 [Minimum mandatory app version](https://files.ontario.ca/apps/verify/minimumVersion.json)
 
