@@ -9,13 +9,13 @@ Open source repository for Ontario's official app **(Verify Ontario)** that is u
 ## Overview
 This is a React Native app and designed to work well on both Android and iOS devices. 
 
-Verify Ontario gives businesses and organizations a quick, easy and trusted way to scan and confirm that visitors are fully vaccinated. 
+Open Verify gives businesses and organizations a quick, easy and trusted way to scan and confirm that visitors are fully vaccinated. 
 
 The app scans the QR code on an Ontario government-issued vaccine certificate.  
 
 After scanning a QR code, the business or organization will see: a green checkmark indicating that it meets vaccine requirements, a red X for an invalid certificate, or a yellow warning indicating that the QR code cannot be read. 
 
-Verify Ontario also scans most government issued SMART® Health Card  QR codes. [Refer to our list of onboarded issuers and their associated public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json). Nation-wide capabilities are in development and will be added as provinces issue proof of vaccination with SMART® Health Card QR codes. 
+Open Verify also scans most government issued SMART® Health Card  QR codes. [Refer to our list of onboarded issuers and their associated public keys](https://files.ontario.ca/apps/verify/verifyRulesetON.json). Nation-wide capabilities are in development and will be added as provinces issue proof of vaccination with SMART® Health Card QR codes. 
 
 
 ## Local setup
